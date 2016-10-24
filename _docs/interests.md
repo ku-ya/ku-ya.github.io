@@ -14,3 +14,5 @@ permalink: /interests/
 ## Rock climbing
 
 ## Photography
+
+## Traveling

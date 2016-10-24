@@ -2,6 +2,8 @@
 layout: archive
 title: Home
 ---
-Postdoctoral Researcher
+- Postdoctoral Researcher
+- Mechanical and Aerospace Engineering Department
+- The George Washington University
 
-The George Washington University
+I am interested in world perception for robots.
