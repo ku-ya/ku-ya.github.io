@@ -1,13 +1,16 @@
 ---
+layout: archive
 title: "Interests"
 permalink: /interests/
 ---
 
 {% include base_path %}
 
-## Running
+## [Running](/interests/running/)
 
-## Biking
+## [Cycling](/interests/cycling/)
+
+<img src="/images/bikes/cct.jpg" width="50%">
 
 ## Slacklining
 

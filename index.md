@@ -7,3 +7,5 @@ title: Home
 - The George Washington University
 
 I am interested in world perception for robots.
+
+<img src="/images/robot.jpg" width="50%">

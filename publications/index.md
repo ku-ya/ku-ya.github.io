@@ -4,6 +4,8 @@ modified: 2016-01-12
 permalink: /publications/
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=yU33tGsAAAAJ&hl=en&oi=ao)
+
 ### 2016
 
 {% bibliography --query @*[year=2016] %}
