@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Interests"
 permalink: /interests/
 ---
@@ -13,6 +12,7 @@ permalink: /interests/
 <img src="/images/bikes/cct.jpg" width="50%">
 
 ## Slacklining
+
 
 ## Rock climbing
 
