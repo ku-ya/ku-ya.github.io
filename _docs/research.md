@@ -16,3 +16,6 @@ My previous research includes
 - non-field-of-view target localization and tracking through a probabilistic framework.
 - autonomous systems
 - Bayesian estimation and control
+- Sensor network
+- Auditory sensing/ Robot audition
+- Mobile robots

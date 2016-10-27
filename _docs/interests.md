@@ -7,15 +7,13 @@ permalink: /interests/
 
 ## [Running](/interests/running/)
 
-## [Cycling](/interests/cycling/)
-
+## [Cycling](/interests/cycling/)  
 <img src="/images/bikes/cct.jpg" width="50%">
 
 ## Slacklining
 
-
 ## Rock climbing
 
-## Photography
+## [Photography](/interests/photography/)
 
-## Traveling
+## [Traveling](/interests/travel/)
