@@ -3,6 +3,7 @@ title: "Traveling"
 permalink: /interests/travel/
 ---
 
+## The countries visited (in blue)
 
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
@@ -27,6 +28,10 @@ areas :
 [
 	{
 		"id": "AT",
+		"showAsSelected": true
+	},
+	{
+		"id": "CA",
 		"showAsSelected": true
 	},
 	{
