@@ -28,6 +28,10 @@ feature_row:
   - image_path: /huskey_ur5.jpg
     title: "Mobile manipulator robots"
     excerpt: "Mobile manipulator projects"
+  - image_path: /SDVT-team-photo.jpg
+    title: "Self-Driving Vehicle Team (SDVT)"
+    excerpt: "An autonomous vehicle team that aims to shape the next generation of autonomous vehicle technology."
+    url: "http://www.me.vt.edu/sdvt/"
   - image_path: /RoboCarHVGold.png
     title: "RoboCar PHV/HV"
     excerpt: "Start-up company: ZMP autonomous RoboCar"
@@ -38,7 +42,7 @@ feature_row:
     url: "https://www.zmp.co.jp/products/robocar-mv?lang=en"
 ---
 
-http://www.me.vt.edu/sdvt/
+
 
 {% include base_path %}
 
@@ -48,15 +52,8 @@ My research interests lie in the field of robotics, especially developing system
 - Multimodal Sensor and information fusion
 - Learning from human capability and extending or assisting human perception
 
-My previous research includes
-
-- non-field-of-view target localization and tracking through a probabilistic framework.
-- autonomous systems
-- Bayesian estimation and control
-- Sensor network
-- Auditory sensing/ Robot audition
-- Mobile robots
-
 # Past and current projects
+
+non-field-of-view target localization and tracking through a probabilistic framework, autonomous systems, Bayesian estimation and control, Sensor network, Auditory sensing/ Robot audition, Mobile robots
 
 {% include feature_row %}
