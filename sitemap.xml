@@ -42,4 +42,8 @@
 <url>
 <loc>/http://www.example.com/some/subdir//teaching/</loc>
 </url>
+<url>
+<loc>/http://www.example.com/some/subdir//assets/cv/CV_KuyaTakami.pdf</loc>
+<lastmod>2016-11-14T18:22:54-05:00</lastmod>
+</url>
 </urlset>
