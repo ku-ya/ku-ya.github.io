@@ -3,7 +3,7 @@ title: "CV/Resume"
 permalink: /resume/
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 [CV PDF](https://github.com/ku-ya/cv/blob/master/CV_KuyaTakami.pdf)
 
@@ -49,3 +49,7 @@ permalink: /resume/
 
 - IEEE
 - ASME
+
+<object data="/assets/cv/CV_KuyaTakami.pdf#page=1" type="application/pdf" width="100%" height="70%">
+   <p><b>fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/cv/CV_KuyaTakami.pdf">Download PDF</a>.</p>
+</object>
