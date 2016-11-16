@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Interests"
 permalink: /interests/
 feature_row:
