@@ -10,6 +10,12 @@
 <loc>/http://www.example.com/some/subdir//</loc>
 </url>
 <url>
+<loc>/http://www.example.com/some/subdir//publications/subject/</loc>
+</url>
+<url>
+<loc>/http://www.example.com/some/subdir//publications/type/</loc>
+</url>
+<url>
 <loc>/http://www.example.com/some/subdir//about/</loc>
 </url>
 <url>
