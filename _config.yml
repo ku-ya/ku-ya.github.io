@@ -288,3 +288,7 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
+scholar:
+  style: ieee-with-url
+  repository: pdf
+  bibliography_template: bibliography
